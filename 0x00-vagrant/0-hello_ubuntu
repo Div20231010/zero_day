@@ -1,1 +1,1 @@
-Displays the name of the operating system on which the command was executed.
+the command uname when run without any options,  displays the operating system on which it is executed
